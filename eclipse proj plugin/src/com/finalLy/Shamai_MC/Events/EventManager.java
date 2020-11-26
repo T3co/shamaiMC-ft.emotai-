@@ -5,6 +5,7 @@ public class EventManager {
 	/*public EventManager(String eventName, String startedMsg, String[] loot) {
 		
 		loot[13] = "";aki
+		bot bot bot 
 		
 		
 	}*/
